@@ -1,4 +1,4 @@
-<title>#HELLO WORLD!</title>
+<title>HELLO WORLD!</title>
 
 # My~
 #HELLO WORLD!
